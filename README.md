@@ -1,10 +1,11 @@
 Lab 3 - SimpleQuotes
 =
 
-#Objectives
+Objectives
+===========
 
-- Learn to build a basic but functioning Rails app
-- Improve familiarity with basic git commands
+- Learn to build a basic but functioning Rails App
+- Improve familiarity with basic Git commands
 - Learn how to style a Rails app!
 <!--- Be able to submit project code to a remote repo-->
 <!--- Practice working with sqlite3 databases
