@@ -11,6 +11,20 @@ Objectives
 <!--- Practice working with sqlite3 databases
 -->
 
+Due Date:
+= 
+**January, 27th 2022** by the end of the lab session.
+
+Important Note
+= 
+ In this lab, you have a total of **3 checkpoints** to validate with one of the teaching team members. 
+ 
+Checkpoints will be graded as follows:
+
+* Checkpoint 1: 30 points
+* Checkpoint 2: 40 points
+* Checkpoint 3: 30 points
+
 --
 
 Part 1: Getting Started
