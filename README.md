@@ -117,7 +117,7 @@ Part 2: Model, View, and Controller
 
         git checkout -b home
 
-1. Downloand and add the image `quips_n_quotes.png` (available in this repo) to your `app/assets/images` directory.
+1. Download and add the image `quips_n_quotes.png` (available in this repo) to your `app/assets/images` directory.
 
 1. Now we want to edit the application layout (`app/views/layouts/application.html.erb`).
 
@@ -363,20 +363,3 @@ Part 3: Additional Views
 # <span class="mega-icon mega-icon-issue-opened"></span> Stop
 Show a TA that your rails application has additional styling. Make sure the TA initials your sheet.
 - - -
-
-<!--Part 4: SQLite Practice
-===========
-
-__Note: If you are out of time, you may finish this last part outside of lab. You will get full credit for this lab.__
-
-1. Now we will practice interacting with the database directly. Using the SQLite Manager in Firefox, [Base](http://menial.co.uk/base/), or the command line, open the `db/quotes_dev.sqlite3` database. 
-
-    If you want to use the command line, you can type `rails db` as a shortcut to open the database. Typing `.quit` will return you to the command line. Typing `.mode column` and `.header on` will make the output more readable.
-
-1. Experiment with the interface by adding, deleting and searching for quotes using SQL. When you are ready, demonstrate to a TA that you can perform all three of these operations in SQLite Manager or on the command line.
-
-- - -
-# <span class="mega-icon mega-icon-issue-opened"></span> Stop
-Show a TA that you can work with a sqlite3 database. Make sure the TA initials your sheet. You are now finished with the lab.
-- - -
--->
