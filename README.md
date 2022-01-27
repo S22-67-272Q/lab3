@@ -319,8 +319,6 @@ Show a TA that you have completed the first part. Make sure the TA initials your
 Part 3: Additional Views
 ===========
 
-__Note: If you are out of time, you may finish this last part outside of lab. You will get full credit for this lab.__
-
 1. Go to the command line and create a new git branch called 'styling' and check out the code to that branch so we can experiment with some new styles.
 
         git checkout -b styling
