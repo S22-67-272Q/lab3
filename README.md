@@ -117,7 +117,7 @@ Part 2: Model, View, and Controller
 
         git checkout -b home
 
-1. Downloand and add the image `quips_n_quotes.png` (available in this repo) to your `app/assets/images` directory.
+1. Download and add the image `quips_n_quotes.png` (available in this repo) to your `app/assets/images` directory.
 
 1. Now we want to edit the application layout (`app/views/layouts/application.html.erb`).
 
@@ -318,8 +318,6 @@ Show a TA that you have completed the first part. Make sure the TA initials your
 
 Part 3: Additional Views
 ===========
-
-__Note: If you are out of time, you may finish this last part outside of lab. You will get full credit for this lab.__
 
 1. Go to the command line and create a new git branch called 'styling' and check out the code to that branch so we can experiment with some new styles.
 
