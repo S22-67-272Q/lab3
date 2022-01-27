@@ -98,7 +98,7 @@ Part 1: Getting Started
 
 1. Add a `/quotes` to the end of the URL to get to the main quotes page.
 
-1. Use the web ui to enter in at least three quotes from the [famous quotes database](). Update one quote. Destroy one quote.
+1. Use the web UI to enter in at least three quotes from the famous quotes database available in this repository (famous_quotes.pdf). Update one quote. Destroy one quote.
 
 1. Now that the basic CRUD functionality is working and the app is populated with test data, let's merge it back to the master branch. 
 
